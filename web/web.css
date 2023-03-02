@@ -1,0 +1,23 @@
+body,h1,h2,h3,h4,h5,h6{
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+}
+
+.logo{
+    background-image: url(rw.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    width: 1400px;
+    height:740px; 
+}
+.aa{
+    border-radius:10%;
+    border-style:double;
+    height:300px;
+    width:300px;
+}
+.review{
+    text-align:left;
+    
+}
